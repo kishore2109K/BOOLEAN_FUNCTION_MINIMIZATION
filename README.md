@@ -58,6 +58,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **RTL realization**
 
 **Output:**
+
 ![image](https://github.com/kishore2109K/BOOLEAN_FUNCTION_MINIMIZATION/assets/152274619/8c9d064b-2806-4734-be47-c1560c93fb54)
 
 **Timing Diagram**
